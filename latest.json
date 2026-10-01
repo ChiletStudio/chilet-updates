@@ -1,159 +1,18 @@
 {
- "version": 1790897590,
+ "version": 1790898832,
  "profile": {
-  "id": "default",
+  "id": "pmuq6wnvy",
   "name": "ChiletSafio",
-  "mc": "1.20.1",
-  "forge": "47.4.20",
+  "mc": "1.21.11",
+  "forge": "61.2.1",
   "server": ""
  },
  "files": [
-  {
-   "p": "mods/fancymenu_forge_3.9.14_MC_1.20.1.jar",
-   "size": 26191988,
-   "sha1": "8916c8f2f12a986365148661fb59650950913b32"
-  },
-  {
-   "p": "mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
-   "size": 625185,
-   "sha1": "2019d821bed9071daabed43979433a5473ceee49"
-  },
-  {
-   "p": "mods/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
-   "size": 37178,
-   "sha1": "e0942d396a70c09038e6c2e5e1da6505178249b8"
-  },
-  {
-   "p": "config/fancymenu/assets/3iMRFKnW_400x400.jpg",
-   "size": 23308,
-   "sha1": "eb543c84193f2b4d7d517c266b9300786cdb235d"
-  },
-  {
-   "p": "config/fancymenu/assets/bedfbb70846543b8915f18a973b946fb.jpeg",
-   "size": 109688,
-   "sha1": "dcbf0c7ebf9f62de85c1fb52d3dc84a58f72ce7d"
-  },
-  {
-   "p": "config/fancymenu/assets/chiletsafio_solo.png",
-   "size": 1017515,
-   "sha1": "dd1a9635db9d32b97b4b907f7b87d84ea711e358"
-  },
-  {
-   "p": "config/fancymenu/assets/nueva_carpeta/monstruo_fluido.mp4",
-   "size": 1979638,
-   "sha1": "87ac6863ed93f3fc959dd23ef5344560eb2b6ecf"
-  },
-  {
-   "p": "config/fancymenu/assets/yaya.png",
-   "size": 743174,
-   "sha1": "a52d6dc090aab4e73e4b0d3102aaeafe6fc3dfae"
-  },
-  {
-   "p": "config/fancymenu/customization/title_screen_layout.txt",
-   "size": 48789,
-   "sha1": "d52b3be429cc206bdd8a5ffa77213c42c0d047b1"
-  },
-  {
-   "p": "config/fancymenu/customization/title_screen_layout_1.txt",
-   "size": 48249,
-   "sha1": "6a9d869dd82a85817f6c5f1677e6ca7d55dd0b39"
-  },
-  {
-   "p": "config/fancymenu/custom_gui_screens.txt",
-   "size": 51,
-   "sha1": "50b4602527a4e3cfea6016ec001f3b68ace1d65c"
-  },
-  {
-   "p": "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
-   "size": 197,
-   "sha1": "adc605cf794120522f34a402a4301baf4e59350d"
-  },
-  {
-   "p": "config/fancymenu/legacy_checklist.txt",
-   "size": 42,
-   "sha1": "f1569161a6ad24cc61b02dece317ea16e351ff1e"
-  },
-  {
-   "p": "config/fancymenu/options.txt",
-   "size": 4396,
-   "sha1": "18f73a136df94da1b0f455d04a90813c71cf8194"
-  },
-  {
-   "p": "config/fancymenu/ui_themes/cherry_blossom.json",
-   "size": 9349,
-   "sha1": "9a453a566f041ddbc39e17918acdac90f6eaed38"
-  },
-  {
-   "p": "config/fancymenu/ui_themes/cozy_campfire.json",
-   "size": 9347,
-   "sha1": "e7fbd4e11f3e969d20d7c713e61fa6d6cedd077e"
-  },
-  {
-   "p": "config/fancymenu/ui_themes/dark.json",
-   "size": 9329,
-   "sha1": "b8793f498fc95000ab68a7d6b45d8575ad45d558"
-  },
-  {
-   "p": "config/fancymenu/ui_themes/dark_high_contrast.json",
-   "size": 9359,
-   "sha1": "9583fa877b286337557aae3429f91d66682091b7"
-  },
-  {
-   "p": "config/fancymenu/ui_themes/light.json",
-   "size": 9331,
-   "sha1": "5b9e9bc9d4d683584c919bcdae3b75581ae42f60"
-  },
-  {
-   "p": "config/fancymenu/ui_themes/light_high_contrast.json",
-   "size": 9361,
-   "sha1": "8a290f6e1a0bdf2be972878e1c134a0c31f4a069"
-  },
-  {
-   "p": "config/fancymenu/ui_themes/pumpkin_soup.json",
-   "size": 9345,
-   "sha1": "39c96a61bdeb936b151e38d0050b70abb78e3620"
-  },
-  {
-   "p": "config/fancymenu/ui_themes/purple_void.json",
-   "size": 9343,
-   "sha1": "9e38ca299adfe6ab2ad331c6adb80e26ff823da8"
-  },
-  {
-   "p": "config/fancymenu/ui_themes/spooky_season.json",
-   "size": 9347,
-   "sha1": "9fa05d2794bdec26dee5224075c98bd7da9c1a0d"
-  },
-  {
-   "p": "config/fancymenu/video_element_controller_metas.json",
-   "size": 130,
-   "sha1": "b8dfd676299b23ba8c7c89e11e62b0f0f2feaf41"
-  },
-  {
-   "p": "config/fml.toml",
-   "size": 1147,
-   "sha1": "5850d014d8cc0cb6e529a9630398080506f90262"
-  },
-  {
-   "p": "config/forge-client.toml",
-   "size": 1628,
-   "sha1": "55e80f51f0c9cf66de1f95c4d775b24dc59627a1"
-  },
   {
    "p": "icon.png",
    "size": 116320,
    "sha1": "ac3b53a1489a9656ce7ff18b5bb2e68cdf00c639"
   }
  ],
- "external": [
-  {
-   "filename": "watermedia-3.0.0.22.jar",
-   "size": 3589679,
-   "sha1": "0d57947285e8d35fb8d3605f412ada6e2ac6d311"
-  },
-  {
-   "filename": "watermedia_binaries-3.0.0.6.jar",
-   "size": 143725808,
-   "sha1": "8f132fc2fec0fe91a9a085c11088f0773da187fc"
-  }
- ]
+ "external": []
 }
