@@ -1,5 +1,5 @@
 {
- "version": 1790977494,
+ "version": 1790977717,
  "profile": {
   "id": "pmuq6wnvy",
   "name": "ChiletSafio",
@@ -29,6 +29,11 @@
    "p": "icon.png",
    "size": 116320,
    "sha1": "ac3b53a1489a9656ce7ff18b5bb2e68cdf00c639"
+  },
+  {
+   "p": "banner.gif",
+   "size": 22859777,
+   "sha1": "c81814e5ca7691fd7c90113b71281128b788b42c"
   }
  ],
  "external": []
