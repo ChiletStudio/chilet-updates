@@ -1,13 +1,30 @@
 {
- "version": 1790974070,
+ "version": 1790977494,
  "profile": {
   "id": "pmuq6wnvy",
   "name": "ChiletSafio",
   "mc": "1.21.11",
   "forge": "61.2.1",
-  "server": ""
+  "server": "",
+  "loader": "",
+  "fabric": ""
  },
  "files": [
+  {
+   "p": "config/fml.toml",
+   "size": 1145,
+   "sha1": "06c06ad464c67cb1b376d46dea964124f1b358ea"
+  },
+  {
+   "p": "config/forge-client.toml",
+   "size": 400,
+   "sha1": "870f464fad5c99036f5f7b5a8399af72896cd4d3"
+  },
+  {
+   "p": "config/forge-common.toml",
+   "size": 283,
+   "sha1": "b5c5818f754b2abe3194ea26ccecf33514ef6b1f"
+  },
   {
    "p": "icon.png",
    "size": 116320,
