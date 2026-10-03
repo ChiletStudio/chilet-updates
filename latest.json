@@ -1,11 +1,11 @@
 {
- "version": 1791057049,
+ "version": 1791061793,
  "profile": {
   "id": "pmuq6wnvy",
   "name": "ChiletSafio",
   "mc": "1.21.11",
   "forge": "61.2.1",
-  "server": "imsleep1a.aternos.me",
+  "server": "chiletsafio.aternos.me:60430",
   "loader": "",
   "fabric": ""
  },
