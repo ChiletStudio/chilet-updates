@@ -1,34 +1,19 @@
 {
- "version": 1791061793,
+ "version": 1791063871,
  "profile": {
-  "id": "pmuq6wnvy",
+  "id": "pmusx5yuh",
   "name": "ChiletSafio",
   "mc": "1.21.11",
-  "forge": "61.2.1",
-  "server": "chiletsafio.aternos.me:60430",
-  "loader": "",
+  "forge": "",
+  "server": "",
+  "loader": "fabric",
   "fabric": ""
  },
  "files": [
   {
-   "p": "config/fml.toml",
-   "size": 1145,
-   "sha1": "06c06ad464c67cb1b376d46dea964124f1b358ea"
-  },
-  {
-   "p": "config/forge-client.toml",
-   "size": 400,
-   "sha1": "870f464fad5c99036f5f7b5a8399af72896cd4d3"
-  },
-  {
-   "p": "config/forge-common.toml",
-   "size": 283,
-   "sha1": "b5c5818f754b2abe3194ea26ccecf33514ef6b1f"
-  },
-  {
    "p": "icon.png",
-   "size": 116320,
-   "sha1": "ac3b53a1489a9656ce7ff18b5bb2e68cdf00c639"
+   "size": 442918,
+   "sha1": "0a410e7aceaa12209463ba0bdf655288892007d1"
   },
   {
    "p": "banner.gif",
