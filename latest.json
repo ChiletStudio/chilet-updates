@@ -1,5 +1,5 @@
 {
- "version": 1791086318,
+ "version": 1791086767,
  "profile": {
   "id": "pmuta5emu",
   "name": "ChiletSafio",
@@ -10,6 +10,51 @@
   "fabric": ""
  },
  "files": [
+  {
+   "p": "mods/CustomPlayerModels-1.20-0.6.27a.jar",
+   "size": 2805930,
+   "sha1": "4652dee093c796799756f5f6c89314c6d601ae65"
+  },
+  {
+   "p": "mods/dedsafio3-0.0.9-forge-1.20.1 (1).jar",
+   "size": 7366550,
+   "sha1": "22a4b7020f7c34d13d4649239f5831df6c6b033b"
+  },
+  {
+   "p": "mods/geckolib-forge-1.20.1-4.8.4.jar",
+   "size": 1038209,
+   "sha1": "81982cc287f80ffabb2fd36d22cc95e4255c739d"
+  },
+  {
+   "p": "mods/Iceberg-1.20.1-forge-1.1.25.jar",
+   "size": 134551,
+   "sha1": "d551ff55814cfb01403b812459ee5a02b020d87b"
+  },
+  {
+   "p": "mods/ItemBorders-1.20.1-forge-1.2.2.jar",
+   "size": 20832,
+   "sha1": "cf42466689489348e1e3a5df00d2ce6c65dd978a"
+  },
+  {
+   "p": "mods/morpher-1.0.8.jar",
+   "size": 183388,
+   "sha1": "d50d44fda276efab88634ca8d4da4b5851be1ed3"
+  },
+  {
+   "p": "mods/Pehkui-3.8.2+1.20.1-forge.jar",
+   "size": 671605,
+   "sha1": "4bc816efdd8e5e2a97423313674401351710e403"
+  },
+  {
+   "p": "mods/Prism-1.20.1-forge-1.0.5.jar",
+   "size": 52205,
+   "sha1": "bcb4bbb1052f49ed4fe6e7d5d7f91f68d45c3fe3"
+  },
+  {
+   "p": "mods/voicechat-forge-1.20.1-2.6.24.jar",
+   "size": 4939842,
+   "sha1": "b8a455d047f9913078f244c815f557123ba59891"
+  },
   {
    "p": "icon.png",
    "size": 442918,
