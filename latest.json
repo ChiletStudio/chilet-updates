@@ -1,5 +1,5 @@
 {
- "version": 1791150105,
+ "version": 1791154253,
  "profile": {
   "id": "pmuuc8azv",
   "name": "ChiletSafio",
@@ -36,6 +36,11 @@
    "sha1": "cf42466689489348e1e3a5df00d2ce6c65dd978a"
   },
   {
+   "p": "mods/jei-1.20.1-forge-15.62.0.219.jar",
+   "size": 2232177,
+   "sha1": "e514cd6bc50b816487d9c25cd457de5e0bd5b07f"
+  },
+  {
    "p": "mods/morpher-1.0.8.jar",
    "size": 183388,
    "sha1": "d50d44fda276efab88634ca8d4da4b5851be1ed3"
@@ -59,6 +64,36 @@
    "p": "mods/voicechat-forge-1.20.1-2.6.24.jar",
    "size": 4939842,
    "sha1": "b8a455d047f9913078f244c815f557123ba59891"
+  },
+  {
+   "p": "config/cpm.json",
+   "size": 66,
+   "sha1": "1507216d968b5f4315afd1fb3055a3b34a736f86"
+  },
+  {
+   "p": "config/fml.toml",
+   "size": 1147,
+   "sha1": "5850d014d8cc0cb6e529a9630398080506f90262"
+  },
+  {
+   "p": "config/forge-client.toml",
+   "size": 1628,
+   "sha1": "55e80f51f0c9cf66de1f95c4d775b24dc59627a1"
+  },
+  {
+   "p": "config/itemborders-common.toml",
+   "size": 4243,
+   "sha1": "c6e8c86c0d26084f947314788df0399a70d6e2e4"
+  },
+  {
+   "p": "config/pehkui-client.toml",
+   "size": 138,
+   "sha1": "50ccb3af7b7fc2103f3f34de24a7c0564fc8a997"
+  },
+  {
+   "p": "config/pehkui-common.toml",
+   "size": 407,
+   "sha1": "c11b9ccc2be7db28ea07b48af4ff9b1822082c7b"
   },
   {
    "p": "icon.png",
