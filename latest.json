@@ -1,5 +1,5 @@
 {
- "version": 1791086767,
+ "version": 1791089208,
  "profile": {
   "id": "pmuta5emu",
   "name": "ChiletSafio",
@@ -54,6 +54,11 @@
    "p": "mods/voicechat-forge-1.20.1-2.6.24.jar",
    "size": 4939842,
    "sha1": "b8a455d047f9913078f244c815f557123ba59891"
+  },
+  {
+   "p": "config/fml.toml",
+   "size": 1147,
+   "sha1": "5850d014d8cc0cb6e529a9630398080506f90262"
   },
   {
    "p": "icon.png",
