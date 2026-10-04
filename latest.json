@@ -1,12 +1,12 @@
 {
- "version": 1791063871,
+ "version": 1791086318,
  "profile": {
-  "id": "pmusx5yuh",
+  "id": "pmuta5emu",
   "name": "ChiletSafio",
-  "mc": "1.21.11",
-  "forge": "",
+  "mc": "1.20.1",
+  "forge": "47.4.26",
   "server": "",
-  "loader": "fabric",
+  "loader": "",
   "fabric": ""
  },
  "files": [
