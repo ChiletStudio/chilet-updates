@@ -1,5 +1,5 @@
 {
- "version": 1791225945,
+ "version": 1791231039,
  "profile": {
   "id": "pmuuc8azv",
   "name": "ChiletSafio",
@@ -89,6 +89,11 @@
    "p": "mods/ItemBorders-1.20.1-forge-1.2.2.jar",
    "size": 20832,
    "sha1": "cf42466689489348e1e3a5df00d2ce6c65dd978a"
+  },
+  {
+   "p": "mods/jei-1.20.1-forge-15.62.0.219.jar",
+   "size": 2232177,
+   "sha1": "e514cd6bc50b816487d9c25cd457de5e0bd5b07f"
   },
   {
    "p": "mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
@@ -212,8 +217,8 @@
   },
   {
    "p": "config/cpm.json",
-   "size": 119,
-   "sha1": "54b4a06b8035b1f9d2a0ab0811507db2390ef3cd"
+   "size": 324,
+   "sha1": "30003e19409c87527b97b91b421d63bc9ec63d82"
   },
   {
    "p": "config/cull-less-leaves.json",
@@ -384,6 +389,51 @@
    "p": "config/sodiumextras-client.toml",
    "size": 4966,
    "sha1": "779b7f66a99f424b89a2a0d96b5b408dd7c25c57"
+  },
+  {
+   "p": "config/xaero/lib/client.cfg",
+   "size": 26,
+   "sha1": "45cccfb3eb8a7a784bd4c29539e5558445f90bcf"
+  },
+  {
+   "p": "config/xaero/lib/common.cfg",
+   "size": 236,
+   "sha1": "8ae8d6ea0330bec2c0db28b109a12443708f1e7b"
+  },
+  {
+   "p": "config/xaero/lib/profiles/default.cfg",
+   "size": 121,
+   "sha1": "253bac0f5181c8db8e488832c46a8d40018650cf"
+  },
+  {
+   "p": "config/xaero/lib/server_profiles/default.cfg",
+   "size": 75,
+   "sha1": "8efdb5a6c4f4f41a36b531d54592321012491fb2"
+  },
+  {
+   "p": "config/xaero/world-map/client.cfg",
+   "size": 521,
+   "sha1": "27b70648a1bccd0561ae94c0a1a978f283893dea"
+  },
+  {
+   "p": "config/xaero/world-map/common.cfg",
+   "size": 141,
+   "sha1": "c3c64f24c8d33940264147473e4a1c8ba5c219ff"
+  },
+  {
+   "p": "config/xaero/world-map/profiles/default.cfg",
+   "size": 1619,
+   "sha1": "2f1680b1a14bf8cc756c5911c9b9f90e119a365e"
+  },
+  {
+   "p": "config/xaero/world-map/server_profiles/default.cfg",
+   "size": 75,
+   "sha1": "8efdb5a6c4f4f41a36b531d54592321012491fb2"
+  },
+  {
+   "p": "config/xaeropatreon.txt",
+   "size": 0,
+   "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
   {
    "p": "icon.png",
