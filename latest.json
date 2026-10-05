@@ -1,5 +1,5 @@
 {
- "version": 1791168848,
+ "version": 1791169503,
  "profile": {
   "id": "pmuuc8azv",
   "name": "ChiletSafio",
@@ -116,6 +116,11 @@
    "sha1": "c1a8f8a28293c29e1f4ea5480101cf05cb93d020"
   },
   {
+   "p": "mods/mezz_config-1.20.1-forge-0.6.8.jar",
+   "size": 364842,
+   "sha1": "e0e9f46bbd24b44a7046c45ccf6aff0bc0a7b735"
+  },
+  {
    "p": "mods/modminds-1.0.7-forge-1.20.1.jar",
    "size": 6521161,
    "sha1": "91d3e44ca956b230d44e1ef76f787dba4e9b4351"
@@ -191,9 +196,49 @@
    "sha1": "b8a455d047f9913078f244c815f557123ba59891"
   },
   {
+   "p": "config/betterfpsdist.json",
+   "size": 722,
+   "sha1": "88ac7fa3016fcbfe86f4cb6189fe500d74959c69"
+  },
+  {
+   "p": "config/connectivity.json",
+   "size": 1818,
+   "sha1": "3320ae1aa9f9295d26ce8705195948e99d277111"
+  },
+  {
    "p": "config/cpm.json",
    "size": 66,
    "sha1": "1507216d968b5f4315afd1fb3055a3b34a736f86"
+  },
+  {
+   "p": "config/cull-less-leaves.json",
+   "size": 35,
+   "sha1": "62ff3023e189145815899d2d0b35b362fe5a9f5d"
+  },
+  {
+   "p": "config/cupboard.json",
+   "size": 1364,
+   "sha1": "eb126f493318b72b9af3676234bae75a0e782671"
+  },
+  {
+   "p": "config/embeddium-fingerprint.json",
+   "size": 427,
+   "sha1": "6d1a3637c873cecd7f74aa2bba0627d73cd37328"
+  },
+  {
+   "p": "config/embeddium-mixins.properties",
+   "size": 269,
+   "sha1": "a729ee50d18cf2204ff9fc33bc21641d55185c88"
+  },
+  {
+   "p": "config/embeddium-options.json",
+   "size": 852,
+   "sha1": "c46718c2b687959e2f8f7c46ba64eb2b7413a80d"
+  },
+  {
+   "p": "config/ferritecore-mixin.toml",
+   "size": 1516,
+   "sha1": "bada32b53873ce4121ffefb82ca804c94aef2e0b"
   },
   {
    "p": "config/fml.toml",
@@ -204,6 +249,21 @@
    "p": "config/forge-client.toml",
    "size": 1628,
    "sha1": "55e80f51f0c9cf66de1f95c4d775b24dc59627a1"
+  },
+  {
+   "p": "config/forgemodmenu.json",
+   "size": 105,
+   "sha1": "4920b9abd3028b842cf9f43bce18bdd23f1e56f6"
+  },
+  {
+   "p": "config/fpsreducer/fpsreducer-client.toml",
+   "size": 3351,
+   "sha1": "4c8ede9991dac82730d7d4bf4c007deb36012b20"
+  },
+  {
+   "p": "config/immediatelyfast.json",
+   "size": 1060,
+   "sha1": "adcb21b0ad5f7f1c124517ff64fc701a737e4ea1"
   },
   {
    "p": "config/itemborders-common.toml",
@@ -261,6 +321,11 @@
    "sha1": "f130c8215225ba10863974ac5e288d72b57c8d30"
   },
   {
+   "p": "config/limitedchunks.json",
+   "size": 504,
+   "sha1": "7fd1ce3dc8e636e8ccfb3ee23d019986af6c62ba"
+  },
+  {
    "p": "config/mezz_config/client/default/settings.ini",
    "size": 1452,
    "sha1": "37c6c10d605efbf78119e1fea0d6d0b06ba9ca77"
@@ -274,6 +339,31 @@
    "p": "config/pehkui-common.toml",
    "size": 407,
    "sha1": "c11b9ccc2be7db28ea07b48af4ff9b1822082c7b"
+  },
+  {
+   "p": "config/smoothchunk.json",
+   "size": 610,
+   "sha1": "c9a641c3cbeaff2db78da59a2b0bf5af6c45ce6d"
+  },
+  {
+   "p": "config/sodium-extra-options.json",
+   "size": 1461,
+   "sha1": "8fc75d725728bed776bd034199cd49f8a42c69bf"
+  },
+  {
+   "p": "config/sodium-extra.properties",
+   "size": 360,
+   "sha1": "e90b2514226a0624cf42112b42477f9872598b89"
+  },
+  {
+   "p": "config/sodiumdynamiclights-client.toml",
+   "size": 659,
+   "sha1": "6cc0f822d81b95d1c458dfef92ba5a1daae9053b"
+  },
+  {
+   "p": "config/sodiumextras-client.toml",
+   "size": 4966,
+   "sha1": "779b7f66a99f424b89a2a0d96b5b408dd7c25c57"
   },
   {
    "p": "icon.png",
