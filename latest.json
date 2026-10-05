@@ -1,5 +1,5 @@
 {
- "version": 1791169503,
+ "version": 1791169949,
  "profile": {
   "id": "pmuuc8azv",
   "name": "ChiletSafio",
@@ -39,11 +39,6 @@
    "p": "mods/CustomPlayerModels-1.20-0.6.27a.jar",
    "size": 2805930,
    "sha1": "4652dee093c796799756f5f6c89314c6d601ae65"
-  },
-  {
-   "p": "mods/dedsafio3-0.0.9-forge-1.20.1 (1).jar",
-   "size": 7366550,
-   "sha1": "22a4b7020f7c34d13d4649239f5831df6c6b033b"
   },
   {
    "p": "mods/embeddium-0.3.31+mc1.20.1.jar",
@@ -116,11 +111,6 @@
    "sha1": "c1a8f8a28293c29e1f4ea5480101cf05cb93d020"
   },
   {
-   "p": "mods/mezz_config-1.20.1-forge-0.6.8.jar",
-   "size": 364842,
-   "sha1": "e0e9f46bbd24b44a7046c45ccf6aff0bc0a7b735"
-  },
-  {
    "p": "mods/modminds-1.0.7-forge-1.20.1.jar",
    "size": 6521161,
    "sha1": "91d3e44ca956b230d44e1ef76f787dba4e9b4351"
@@ -134,11 +124,6 @@
    "p": "mods/noisiumed-forge-3.0.6+mc1.20-1.20.1.jar",
    "size": 218152,
    "sha1": "34130d62dac472eae1357a1f0d64867a19fd3402"
-  },
-  {
-   "p": "mods/owleafutils-0.1.5.0-BETA.jar",
-   "size": 29764,
-   "sha1": "bca3ab707a34aa8d9672291002680b1826f3b19f"
   },
   {
    "p": "mods/Pehkui-3.8.2+1.20.1-forge.jar",
