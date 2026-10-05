@@ -1,5 +1,5 @@
 {
- "version": 1791225637,
+ "version": 1791225945,
  "profile": {
   "id": "pmuuc8azv",
   "name": "ChiletSafio",
@@ -194,6 +194,11 @@
    "p": "mods/starlight-1.1.2+forge.1cda73c.jar",
    "size": 110583,
    "sha1": "a915880c7834a0b0f9f300f0e3053deaa9a3205a"
+  },
+  {
+   "p": "mods/xaeroworldmap-forge-1.20.1-1.47.0.jar",
+   "size": 1429424,
+   "sha1": "6715c1d3758a3805589d82c41dc581537fe185cd"
   },
   {
    "p": "config/betterfpsdist.json",
