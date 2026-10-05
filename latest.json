@@ -1,5 +1,5 @@
 {
- "version": 1791173062,
+ "version": 1791225637,
  "profile": {
   "id": "pmuuc8azv",
   "name": "ChiletSafio",
@@ -44,6 +44,11 @@
    "p": "mods/d3d-1.0.3-forge-1.20.1.jar",
    "size": 37312626,
    "sha1": "b74de8b22f7a84f75dc04b968348dfc3b4162124"
+  },
+  {
+   "p": "mods/dedsafio3-0.0.9-forge-1.20.1 (1).jar",
+   "size": 7366550,
+   "sha1": "22a4b7020f7c34d13d4649239f5831df6c6b033b"
   },
   {
    "p": "mods/embeddium-0.3.31+mc1.20.1.jar",
@@ -202,8 +207,8 @@
   },
   {
    "p": "config/cpm.json",
-   "size": 95,
-   "sha1": "725c902b216be9753b4d9584ff2abeaf5a01f1d5"
+   "size": 119,
+   "sha1": "54b4a06b8035b1f9d2a0ab0811507db2390ef3cd"
   },
   {
    "p": "config/cull-less-leaves.json",
@@ -324,6 +329,21 @@
    "p": "config/mezz_config/client/default/settings.ini",
    "size": 1452,
    "sha1": "37c6c10d605efbf78119e1fea0d6d0b06ba9ca77"
+  },
+  {
+   "p": "config/modmenu.json",
+   "size": 814,
+   "sha1": "7e4d498194b4cfea3ac311623fe09a3fa2927860"
+  },
+  {
+   "p": "config/more_owleaf/admins.json",
+   "size": 27,
+   "sha1": "e4f70b783e53e213ba16ab83df702d0973f7d8e2"
+  },
+  {
+   "p": "config/more_owleaf-common.toml",
+   "size": 1001,
+   "sha1": "9597307e9be88485c1f7bd3ff5ff8ef7cde14701"
   },
   {
    "p": "config/pehkui-client.toml",
