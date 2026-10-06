@@ -1,5 +1,5 @@
 {
- "version": 1791231039,
+ "version": 1791306061,
  "profile": {
   "id": "pmuuc8azv",
   "name": "ChiletSafio",
@@ -56,6 +56,11 @@
    "sha1": "bb2fa8f3e493af16af9160d049f96c614a1faf2f"
   },
   {
+   "p": "mods/explosiveenhancement-1.2.0.jar",
+   "size": 97476,
+   "sha1": "35cf80849ac4b19416cadc12cf10de34295e51f5"
+  },
+  {
    "p": "mods/fastasyncworldsave-1.20.1-2.6.jar",
    "size": 14812,
    "sha1": "3a3180f5fc9d1209ca0ad69084afe8ee42ba44d6"
@@ -84,6 +89,11 @@
    "p": "mods/ImmediatelyFast-Forge-1.5.5+1.20.4.jar",
    "size": 532063,
    "sha1": "9eacd407b7dea636d375dc47335d92f616484ea2"
+  },
+  {
+   "p": "mods/immersive_paintings-0.6.13+1.20.1-forge.jar",
+   "size": 4856103,
+   "sha1": "3f2a668f2235a6a908fde545d140013456b5412f"
   },
   {
    "p": "mods/ItemBorders-1.20.1-forge-1.2.2.jar",
@@ -217,8 +227,8 @@
   },
   {
    "p": "config/cpm.json",
-   "size": 324,
-   "sha1": "30003e19409c87527b97b91b421d63bc9ec63d82"
+   "size": 332,
+   "sha1": "43b09b2dc2c13651e6cfca4b177bb9ad5f869365"
   },
   {
    "p": "config/cull-less-leaves.json",
@@ -307,8 +317,8 @@
   },
   {
    "p": "config/jei/client/ingredient-list-mod-sort-order.ini",
-   "size": 47,
-   "sha1": "897de22f4adec3ddf9af836ed94b40f03522e937"
+   "size": 66,
+   "sha1": "bbd919fe08b60db9c430a86c7367f82ca33c0699"
   },
   {
    "p": "config/jei/client/ingredient-list-type-sort-order.ini",
@@ -324,6 +334,11 @@
    "p": "config/jei/client/recipe-category-sort-order.ini",
    "size": 395,
    "sha1": "ab7be45afeb551ea75ee15432c20f59533ddf02c"
+  },
+  {
+   "p": "config/jei/world/server/Minecraft Server (chiletsafio_holy_gg)/lookupHistory.ini",
+   "size": 2524,
+   "sha1": "50773f058f217a6587797cf5c9c14e7d85202cd3"
   },
   {
    "p": "config/jei/world/server/Minecraft Server (srpett_aternos_me)/lookupHistory.ini",
